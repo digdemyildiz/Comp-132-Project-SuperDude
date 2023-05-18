@@ -26,18 +26,18 @@ public class TestSuperDude {
 	public static void main(String[] args) {
 		
 		
-		 User user1 = new User("Premium","kavun" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","female",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user2 = new User("Standard","kavun2" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","male",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user3 = new User("Premium","kavun3" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user4 = new User("Standard","kavun4" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user5 = new User("Premium","kavun5" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user6 = new User("Standard","kavun6" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user7 = new User("Premium","kavun7" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user8 = new User("Premium","kavun8" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user9 = new User("Standard","kavun9" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user10 = new User("Premium","kavun10" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user11 = new User("Standard","kavun11" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
-		 User user12 = new User("Premium","kavun12" , "didem_54_bahar@hotmail.com", "11111","Diðdem","Yýldýz","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user1 = new User("Premium","kavun" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","female",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user2 = new User("Standard","kavun2" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","male",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user3 = new User("Premium","kavun3" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user4 = new User("Standard","kavun4" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user5 = new User("Premium","kavun5" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user6 = new User("Standard","kavun6" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user7 = new User("Premium","kavun7" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user8 = new User("Premium","kavun8" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user9 = new User("Standard","kavun9" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user10 = new User("Premium","kavun10" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user11 = new User("Standard","kavun11" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
+		 User user12 = new User("Premium","kavun12" , "elma123@hotmail.com", "11111","DiÃ°dem","YÃ½ldÃ½z","woman",20,new ImageIcon("superman-logo.png"), new HashSet<String>());
 		 
 		 
 		 user2.follow(user1);
